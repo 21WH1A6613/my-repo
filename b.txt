@@ -1,2 +1,2 @@
-"File B" 
-"Edit in b from b1" 
+Edit in b from b1
+Edit in b from b2
