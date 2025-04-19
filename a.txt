@@ -1,1 +1,2 @@
 "File A" 
+"Edit in a from b1" 
